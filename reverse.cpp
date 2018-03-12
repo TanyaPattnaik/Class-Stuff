@@ -87,8 +87,9 @@ ob.add(2);
 ob.add(3);
 ob.add(4);
 ob.add(5);
+ob.add(6);
 ob.display();
-//cout<<"The reverse is \n";
-//ob.reverse();
+cout<<"The reverse is \n";
+ob.reverse();
 return 0;
 }
